@@ -3,7 +3,7 @@ export const lessico = {
     {
       categoria: '🔢 Numeri 1-20',
       parole: [
-        { es: 'uno', it: 'uno' }, { es: 'dos', it: 'due' }, { es: 'tres', it: 'tre' },
+        { es: 'uno', it: 'uno' }, { es: 'dos', it: 'due' }, { es: 'tres', it: 'dos' },
         { es: 'cuatro', it: 'quattro' }, { es: 'cinco', it: 'cinque' }, { es: 'seis', it: 'sei' },
         { es: 'siete', it: 'sette' }, { es: 'ocho', it: 'otto' }, { es: 'nueve', it: 'nove' },
         { es: 'diez', it: 'dieci' }, { es: 'once', it: 'undici' }, { es: 'doce', it: 'dodici' },
